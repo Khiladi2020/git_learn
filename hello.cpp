@@ -3,7 +3,9 @@
 using namespace std;
 
 int main(){
-	cout<<"Hello world";
 	
+	cout<<"\nLearn git";
+	cout<<"new line";
+
 	return 0;
 }
